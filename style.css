@@ -1,0 +1,38 @@
+ tr{
+            box-sizing: border-box;
+        }
+        td {
+            box-sizing: inherit;
+            height: 4rem;
+        }
+        span{
+            font-size: 1rem;
+            vertical-align: middle;
+        }
+        *{
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }
+        button {
+            border-width: 0;
+            background-color: inherit;
+        }
+        #leaderboard{
+            background-color: green;
+        }
+        table {
+            width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #header{
+            background-color: green;
+        }
+        body {
+            background-color: grey;
+        }
+        table {
+            background-color: white;
+            border-width: 0;
+        }
